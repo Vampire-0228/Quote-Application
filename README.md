@@ -1,16 +1,11 @@
-# flutter_first
+# Quote Application
 
-A new Flutter project.
+This project made for brewapps. This application made by AI, technically vibe coding .
+Simple application with simple interface. It quote daily and it can be shared and saved as favorite
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Brewapps recruitment.
+Here I used Claude for error handling, ChatGPT for interface and Blackbox AI for Frontend and Backend Integration.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
